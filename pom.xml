@@ -82,23 +82,19 @@
   </modules>
 
   <scm>
-    <connection>scm:git:https://github.com/mojohaus/webstart.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/mojohaus/webstart.git</developerConnection>
-    <url>https://github.com/mojohaus/webstart</url>
+    <connection>scm:git:https://github.com/linkareti/webstart.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/linkareti/webstart.git</developerConnection>
+    <url>https://github.com/linkareti/webstart</url>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>github</system>
-    <url>https://github.com/mojohaus/webstart/issues</url>
+    <url>https://github.com/linkareti/webstart/issues</url>
   </issueManagement>
-  <ciManagement>
-    <system>Travis CI</system>
-    <url>https://travis-ci.org/mojohaus/webstart</url>
-  </ciManagement>
   <distributionManagement>
     <site>
       <id>github</id>
-      <url>scm:git:git@github.com:mojohaus/webstart.git</url>
+      <url>scm:git:git@github.com:linkareti/webstart.git</url>
     </site>
   </distributionManagement>
 
