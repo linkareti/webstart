@@ -164,6 +164,11 @@
       <scope>test</scope>
     </dependency>
 
+    <dependency>
+      <groupId>org.glavo</groupId>
+      <artifactId>pack200</artifactId>
+      <version>0.3.0</version>
+    </dependency>
   </dependencies>
 
   <build>
